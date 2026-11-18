@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.ruff_cache/
+
+# Environment / secrets
+.env
+.env.*
+
+# Generated data and outputs
+data/*.npz
+**/data/*.npz
+outputs/
+results/
+checkpoints/
+temp/
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

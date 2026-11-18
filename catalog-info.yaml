@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: second-order-calibration
+  description: Official code for the NeurIPS 2026 paper "The Minimax Rate of Perturbed Second-Order Calibration".
+spec:
+  type: library
+  lifecycle: experimental
+  owner: Neural
