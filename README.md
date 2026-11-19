@@ -127,7 +127,7 @@ once the NeurIPS proceedings version is published.
 
 ### Installation
 
-The code was tested with Python 3.10. Python 3.10 or later is recommended.
+The code was tested with Python 3.10. Supported versions are Python 3.10–3.13 (newer versions may lack PyTorch wheels).
 
 ```bash
 # install dependencies
